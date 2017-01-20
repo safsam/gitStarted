@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"partner_name"
+			],
+			[
+				"direct",
+				"directsupport"
+			],
+			[
+				"partne",
+				"partner_id"
+			],
+			[
+				"carri",
+				"carrier_fbid"
+			],
+			[
+				"p",
+				"p\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/carrier flow share.py",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/direct support and quick start for oemas.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/OEM NEW YEAR",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/new year email OEMs.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/New Year Email Operators.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/maps update aug16 roadmap.py",
+		"/Users/safiyas/Documents/Nov 28 email.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Help Content/actionabot insights.py",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Help Content/Release #3.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Help Content/new data contents help.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Help Content/releases",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/Stale Carrier Name by Country .sql",
+		"/Users/safiyas/Downloads/AI_Release2_OEM_test_email.html",
+		"/Users/safiyas/Downloads/AI_Release2,Carrier_email_no_ethnicaffinity",
+		"/Users/safiyas/Downloads/AI-email-template.html",
+		"/Users/safiyas/Downloads/Peru Competitor data email.html",
+		"/Users/safiyas/Downloads/support update email.html",
+		"/Users/safiyas/Downloads/Current Insights Carrier WAC.csv",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Prod Ops/invitation link",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Release 1 new maps and no CF.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Insights/Comms/ISP_DE_FR_ES_Emails.html",
+		"/Users/safiyas/Downloads/Cosmote Notes",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Release 1 OEM Emails.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Release1 no new maps and no CF.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Releas1 Operators With NEW Maps and Carrier Flow Share.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Release1-H2-2016 Operators No new Maps and Carrier flow Share.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/quick start guide + maps release post.mdown",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/OEM Release1-H2-2016.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/OEM New Maps Emails.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Tigo Carrier Flow - Named Competitors.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/sub-brand cricket.py",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Cricket Release Email",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/Wifi Time Spent - TIM BR.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Product Emails/innovation partners",
+		"/Users/safiyas/Downloads/The_Underground_Railroad_Oprah_s_Book_Cl-epub.acsm",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Preloads/Direct Support Annoucement Tier 2.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Preloads/Bell Onboard email.html",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Preloads/Operators New Maps Emails.mdown",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Preloads/time series pt.py",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Insights Help Content/Time Series Start Date.py",
+		"/Users/safiyas/Dropbox (Facebook)/Oxygen Prod Ops/Preloads/i18n preloads issues"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"+",
+			"(",
+			"13195774571",
+			"14470863602",
+			"16774047058",
+			"21908432304",
+			"23418333627",
+			"24079232549",
+			"25251609768",
+			"32365682879",
+			"39398926758",
+			"40651756150",
+			"71994202678",
+			"80354595374",
+			"86286241262",
+			"92318066901",
+			"103485758845",
+			"118917852811",
+			"175170473833",
+			"176448990870",
+			"109342055759864",
+			"127786237284489",
+			"159527234174795",
+			"343897659080564",
+			"210729348965821",
+			"343897659080564",
+			"357693277709654",
+			"9126434567",
+			"1403052849952497",
+			"726452910817936",
+			"(",
+			")",
+			"{partner_id}",
+			"934953663188947",
+			")",
+			"(",
+			"10593957053",
+			")",
+			"(",
+			"10732516234",
+			"13195774571",
+			"=>",
+			"gk",
+			"</section-title>",
+			"<section-title>",
+			"</section>",
+			"<section>",
+			"filter",
+			"- [ ] ",
+			"55008964530",
+			"15821990906",
+			"11962421804",
+			"21908432304",
+			"1086540343",
+			"Full Access\tPENDINg",
+			"Full Access\tPENDIN",
+			"620089729\tFriday, October 7, 2016 at 9:",
+			"620089729\tFriday, October 7, 2016 at 9:22pm",
+			"(",
+			"*",
+			"**",
+			"profiles",
+			"*",
+			"- [x]",
+			"+",
+			"<ref ",
+			"ng",
+			"th",
+			"11757608652",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{partner_id}",
+			"direct s"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
